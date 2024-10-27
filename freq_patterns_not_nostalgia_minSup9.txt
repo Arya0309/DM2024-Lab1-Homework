@@ -1,0 +1,384 @@
+favorites:9
+special:9
+soul:9
+mind:9
+60:9
+60s:9
+family:9
+ones:9
+things:9
+others:9
+pure:9
+please:9
+though:9
+wonder:9
+person:9
+sung:9
+year:9
+handsome:9
+perfect:9
+born:9
+ll:9
+happy:9
+almost:9
+end:9
+rock:10
+says:10
+other:10
+emotion:10
+tell:10
+movie:10
+believe:10
+thing:10
+ago:10
+friend:10
+lady:10
+sings:10
+down:10
+want:10
+understand:10
+generation:11
+hit:11
+which:11
+enjoy:11
+yes:11
+long:11
+put:11
+someone:11
+away:11
+work:11
+band:11
+does:11
+find:11
+called:11
+lol:11
+words:11
+didn:11
+voices:11
+eyes:11
+thought:11
+kind:11
+re:11
+dance:11
+lot:11
+pretty:11
+gonna:11
+sounds:12
+brilliant:12
+girl:12
+around:12
+tears:12
+single:12
+wrong:12
+tune:12
+few:12
+nowadays:12
+lovely:12
+times:12
+sure:12
+romantic:12
+guy:12
+play:13
+played:13
+nothing:13
+right:13
+seen:13
+something:13
+look:13
+our:13
+may:13
+being:13
+youtube:13
+new:14
+into:14
+name:14
+pop:14
+feeling:14
+same:14
+original:14
+era:14
+live:15
+us:15
+anymore:15
+should:15
+after:15
+without:15
+singers:16
+came:16
+again:16
+country:16
+forever:16
+sound:16
+little:16
+even:16
+say:16
+where:16
+feel:17
+true:17
+anyone:17
+fantastic:17
+another:17
+wow:17
+over:17
+because:17
+back:18
+greatest:18
+before:18
+makes:18
+makes	me:12
+age:19
+young:19
+go:19
+see:19
+days:20
+well:20
+wonderful:20
+made:20
+favorite:20
+thanks:20
+ve:20
+got:20
+elvis:21
+every:21
+loved:21
+classic:21
+them:21
+lyrics:21
+first:22
+first	time:12
+their:22
+amazing:22
+amazing	an:9
+those:24
+day:24
+then:24
+any:24
+wish:24
+god:25
+or:25
+its:25
+nice:25
+did:25
+why:25
+make:25
+make	they:9
+come:26
+singing:26
+sad:26
+way:26
+real:26
+life:27
+heart:27
+better:27
+better	than:15
+years:28
+years	old:10
+were:28
+were	they:11
+sing:29
+your:29
+version:29
+man:30
+man	his:11
+some:30
+world:30
+than:30
+than	more:11
+people:31
+listening:31
+most:31
+most	beautiful:9
+most	ever:10
+him:32
+him	his:10
+heard:32
+get:32
+video:32
+today:32
+today	can:9
+today	songs:10
+been:32
+been	would:10
+such:34
+such	had:10
+such	beautiful:10
+such	voice:13
+too:34
+many:35
+singer:35
+old:35
+old	songs:9
+here:35
+here	not:9
+listen:36
+had:36
+do:36
+do	not:14
+could:37
+there:37
+there	be:9
+there	no:12
+up:37
+up	can:9
+up	beautiful:9
+hear:38
+hear	when:9
+am:38
+am	not:9
+an:38
+an	she:9
+these:38
+these	songs:16
+very:40
+very	she:10
+very	much:10
+still:42
+out:42
+out	as:9
+thank:43
+thank	much:15
+we:43
+we	on:9
+we	be:10
+has:43
+would:43
+would	on:9
+would	at:9
+would	if:14
+would	be:19
+think:43
+think	about:9
+more:43
+more	me:9
+more	songs:9
+more	can:11
+only:43
+only	who:9
+don:43
+don	know:9
+don	just:9
+don	they:14
+best:45
+best	ever:13
+if:46
+if	can:9
+if	me:11
+if	not:11
+if	be:14
+by:46
+by	not:9
+by	from:9
+by	songs:9
+how:46
+ever:47
+ever	be:13
+really:48
+really	time:9
+about:48
+about	they:9
+about	not:9
+about	know:10
+about	on:10
+about	be:10
+about	as:10
+who:49
+who	when:9
+who	just:9
+who	are:10
+who	can:10
+who	know:11
+much:49
+good:50
+good	as:11
+now:51
+now	songs:10
+now	from:10
+always:51
+always	be:9
+always	they:9
+always	will:13
+his:52
+his	voice:11
+know:52
+know	on:10
+know	not:12
+no:54
+no	can:9
+no	me:9
+no	not:10
+no	will:10
+no	just:10
+no	be:12
+never:54
+never	time:9
+never	she:9
+never	voice:9
+never	be:13
+never	will:20
+at:55
+at	me:9
+are:57
+are	they:9
+are	time:9
+are	when:9
+are	not:13
+she:59
+she	just:10
+she	can:10
+she	beautiful:11
+she	voice:23
+she	voice	her:14
+she	her:25
+from:60
+from	when:9
+from	beautiful:9
+from	songs:10
+from	can:11
+they:61
+they	on:9
+they	will:9
+they	not:12
+they	just:12
+they	songs:16
+as:61
+as	will:9
+as	can:10
+as	not:11
+as	be:11
+her:63
+her	can:11
+her	beautiful:12
+her	voice:26
+will:64
+will	time:10
+will	on:12
+will	be:26
+when:68
+when	can:11
+songs:71
+songs	just:10
+songs	beautiful:10
+time:72
+just:77
+just	can:9
+just	not:9
+just	me:16
+beautiful:78
+beautiful	be:9
+beautiful	me:9
+beautiful	voice:19
+be:79
+be	me:9
+be	not:10
+be	can:16
+voice:80
+voice	can:12
+me:83
+me	on:9
+me	not:12
+me	can:17
+on:84
+on	not:10
+on	can:11
+can:85
+not:87

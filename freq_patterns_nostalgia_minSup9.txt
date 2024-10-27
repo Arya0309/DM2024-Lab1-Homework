@@ -1,0 +1,757 @@
+find:9
+down:9
+few:9
+its:9
+sure:9
+player:9
+left:9
+together:9
+along:9
+tv:9
+until:9
+yes:9
+records:9
+place:9
+right:9
+karen:9
+didn:10
+also:10
+into:10
+god:10
+home:10
+amazing:10
+awesome:10
+60s:10
+kind:10
+real:10
+use:10
+14:10
+changed:10
+hit:10
+friends:10
+younger:10
+teen:10
+40:10
+friend:10
+bringing:10
+knew:10
+once:10
+summer:10
+before:11
+words:11
+tune:11
+born:11
+house:11
+late:11
+remind:11
+going:11
+want:11
+big:11
+other:11
+classic:11
+which:11
+lost:11
+went:11
+here:11
+brother:11
+through:11
+night:11
+nice:11
+older:11
+1963:11
+car:11
+around:12
+grew:12
+grew	up:11
+people:12
+your:12
+fantastic:12
+forever:12
+name:12
+70s:12
+youth:12
+dancing:12
+80s:12
+50:12
+their:12
+sister:12
+age:13
+think:13
+rip:13
+while:13
+last:13
+10:13
+eyes:13
+lyrics:13
+even:13
+80:13
+later:14
+make:14
+hearing:14
+missed:14
+made:14
+country:14
+country	music:9
+during:14
+growing:14
+growing	up:13
+tears:14
+brought:14
+take:14
+don:14
+do:15
+dance:15
+singer:15
+father:15
+too:15
+boy:15
+see:15
+where:15
+yesterday:15
+sang:15
+man:15
+past:15
+listened:16
+lot:16
+if:16
+live:16
+world:16
+died:16
+gone:16
+mother:16
+nostalgia:16
+feel:16
+most:17
+us:17
+come:17
+wow:17
+2019:17
+teenager:18
+heart:18
+record:18
+60:18
+get:18
+more:18
+know:18
+oh:18
+no:19
+reeves:19
+reeves	jim:17
+because:19
+cry:19
+nostalgic:19
+parents:19
+being:19
+way:19
+early:20
+well:20
+did:20
+lovely:20
+girl:20
+sweet:21
+got:21
+over:21
+70:21
+been:21
+been	have:14
+since:22
+since	have:9
+high:22
+high	school:20
+playing:22
+playing	remember:10
+memory:23
+bring:23
+long:23
+sad:23
+child:24
+child	as:11
+year:24
+year	old:12
+jim:25
+jim	his:9
+away:25
+away	passed:13
+by:25
+has:25
+today:25
+about:25
+about	old:9
+about	now:9
+could:25
+could	wish:15
+kid:26
+only:26
+such:26
+them:26
+or:26
+or	now:11
+or	old:12
+wish:26
+singing:27
+singing	remember:9
+mom:27
+mom	dad:9
+an:28
+an	had:9
+an	with:10
+an	as:10
+ever:28
+ever	best:9
+came:28
+came	old:9
+came	now:9
+came	out:16
+some:28
+some	brings:9
+would:28
+would	sing:9
+will:28
+will	music:9
+will	never:9
+will	we:11
+will	be:11
+will	always:12
+go:28
+day:28
+day	remember:9
+day	have:10
+little:29
+little	remember:9
+mum:29
+mum	miss:9
+mum	dad:11
+takes:30
+favorite:30
+passed:30
+passed	with:9
+passed	he:10
+after:30
+after	we:9
+after	her:9
+after	still:10
+our:31
+our	remember:9
+our	music:9
+our	with:12
+our	we:12
+makes:31
+wonderful:31
+wonderful	with:11
+who:32
+who	have:10
+who	with:11
+who	is:11
+there:32
+there	from:9
+there	are:10
+there	have:12
+there	is:13
+play:33
+play	used:11
+really:33
+really	now:9
+really	at:9
+radio:34
+radio	remember:9
+radio	from:9
+life:35
+then:36
+then	with:9
+then	had:9
+then	now:12
+ago:36
+ago	with:9
+ago	remember:9
+ago	is:11
+again:36
+thanks:36
+thanks	remember:9
+how:37
+how	old:9
+how	miss:9
+how	had:10
+how	remember:10
+they:37
+they	all:9
+they	are:11
+they	music:11
+they	never:11
+they	were:14
+happy:37
+happy	days:9
+happy	now:9
+happy	we:9
+out:38
+out	now:9
+out	as:9
+out	at:9
+out	have:11
+out	just:12
+out	old:13
+him:39
+him	always:9
+him	miss:10
+him	reminds:11
+him	with:13
+him	his:13
+him	he:17
+are:39
+are	these:10
+are	all:10
+are	but:11
+are	we:11
+are	songs:11
+are	music:15
+sing:39
+sing	dad:9
+sing	she:9
+sing	with:10
+sing	we:10
+sing	is:10
+sing	used:16
+thank:39
+thank	much:9
+thank	remember:10
+best:39
+best	music:9
+best	with:12
+not:40
+not	just:9
+not	with:9
+not	still:11
+not	old:12
+not	but:12
+very:40
+very	much:9
+very	had:10
+very	remember:10
+very	is:10
+played:41
+played	all:9
+played	great:10
+played	remember:11
+played	with:11
+played	we:12
+what:41
+what	remember:12
+what	great:13
+these:42
+these	great:9
+these	music:9
+these	songs:20
+hear:43
+hear	is:9
+hear	from:9
+hear	with:10
+she:43
+she	just:9
+she	with:10
+she	is:10
+she	all:10
+she	we:11
+she	now:11
+she	remember:13
+she	her:15
+those:43
+those	remember:9
+those	just:9
+those	old:10
+those	now:10
+those	all:11
+those	with:11
+those	miss:12
+those	is:13
+those	days:23
+listen:43
+listen	just:9
+listen	old:9
+listen	we:10
+his:44
+his	voice:9
+his	songs:9
+his	remember:9
+his	one:9
+his	have:10
+his	as:10
+his	is:10
+his	music:11
+his	with:13
+his	he:16
+were:44
+were	as:9
+were	great:10
+were	with:11
+were	we:17
+every:44
+every	we:10
+every	with:10
+can:44
+can	is:9
+can	with:9
+can	first:9
+can	be:9
+can	now:10
+can	never:10
+can	music:10
+can	remember:13
+young:44
+young	but:10
+young	we:11
+young	remember:16
+heard:45
+heard	old:9
+heard	just:9
+heard	now:9
+heard	remember:10
+heard	is:10
+heard	have:10
+heard	from:11
+heard	still:12
+heard	first:17
+times:45
+times	great:11
+times	good:12
+never:46
+never	great:10
+never	be:10
+never	with:10
+never	now:11
+never	old:11
+never	we:11
+never	music:12
+never	is:13
+used:46
+used	with:10
+used	at:10
+used	we:11
+am:46
+am	still:9
+am	childhood:9
+am	have:9
+am	is:9
+am	old:11
+am	remember:12
+am	but:14
+am	now:15
+be:46
+be	but:9
+be	always:10
+be	music:10
+be	now:10
+be	voice:10
+be	is:12
+be	old:13
+be	remember:14
+be	with:16
+voice:47
+voice	music:9
+voice	had:9
+voice	as:10
+voice	her:10
+voice	still:10
+voice	beautiful:12
+voice	with:13
+voice	remember:15
+voice	great:16
+one:47
+one	all:9
+one	at:10
+one	as:10
+one	is:11
+one	songs:12
+one	with:15
+her:48
+her	but:9
+her	miss:10
+her	old:12
+her	remember:13
+her	with:15
+her	we:16
+school:49
+school	at:9
+school	remember:9
+school	old:10
+school	with:11
+like:50
+like	from:9
+like	songs:9
+like	good:10
+like	now:10
+like	remember:10
+like	is:10
+like	just:11
+like	with:11
+like	old:12
+like	but:12
+dad:50
+dad	much:10
+dad	always:10
+dad	reminds:12
+dad	remember:13
+dad	miss:14
+he:50
+he	is:9
+he	remember:10
+he	had:10
+he	but:11
+he	have:11
+he	much:11
+he	dad:13
+he	always:14
+he	with:18
+up:51
+up	old:9
+up	is:10
+up	remember:10
+up	we:10
+up	music:11
+up	with:16
+loved:52
+loved	music:9
+loved	have:9
+loved	great:9
+loved	songs:9
+loved	we:10
+loved	with:10
+loved	much:10
+loved	but:11
+much:55
+much	still:9
+much	reminds:12
+much	had:14
+much	miss:20
+listening:58
+listening	we:9
+listening	from:9
+listening	still:9
+listening	is:10
+listening	old:10
+listening	brings:10
+listening	with:11
+listening	music:12
+listening	remember:13
+had:59
+had	but:9
+had	all:9
+had	good:9
+had	at:9
+had	just:9
+had	days:9
+had	remember:10
+had	have:10
+had	is:10
+had	great:10
+had	old:12
+had	as:12
+had	music:13
+had	we:13
+had	with:14
+many:61
+many	all:9
+many	beautiful:9
+many	have:9
+many	is:9
+many	music:10
+many	now:10
+many	songs:12
+many	brings:19
+first:61
+first	with:9
+first	brings:9
+first	music:10
+first	old:12
+first	now:12
+first	is:15
+first	remember:19
+always:62
+always	music:9
+always	reminds:9
+always	have:9
+always	now:10
+always	miss:11
+always	is:11
+always	remember:12
+always	but:13
+always	with:16
+songs:62
+songs	old:9
+songs	from:9
+songs	is:10
+songs	great:11
+songs	have:11
+songs	but:11
+songs	brings:12
+songs	with:13
+songs	just:13
+songs	all:14
+still:64
+still	we:9
+still	miss:9
+still	from:10
+still	with:10
+still	old:11
+still	have:12
+still	remember:15
+still	now:16
+still	but:16
+still	is:17
+have:64
+have	beautiful:9
+have	old:9
+have	childhood:9
+have	all:10
+have	as:10
+have	at:10
+have	we:10
+have	now:11
+have	from:11
+have	remember:11
+have	with:12
+have	but:13
+have	is:18
+just:64
+just	music:9
+just	days:9
+just	is:9
+just	we:10
+just	from:10
+just	as:10
+just	have:10
+just	all:12
+just	at:12
+just	great:12
+just	now:12
+just	remember:12
+just	old:14
+just	but:15
+just	with:18
+at:68
+at	music:9
+at	as:11
+at	but:11
+at	great:12
+at	with:13
+at	old:16
+at	we:17
+at	remember:19
+as:68
+as	from:9
+as	great:9
+as	music:13
+as	beautiful:13
+as	now:13
+as	remember:14
+as	old:14
+as	we:15
+as	with:17
+as	is:19
+from:70
+from	music:9
+from	we:9
+from	old:10
+from	brings:10
+from	childhood:13
+from	remember:14
+from	now:14
+from	with:15
+from	great:15
+from	is:15
+good:70
+good	we:9
+good	but:9
+good	remember:10
+good	music:11
+good	days:18
+good	days	old:16
+good	brings:21
+good	old:24
+all:70
+all	but:10
+all	now:12
+all	remember:12
+all	we:13
+all	brings:13
+all	great:13
+all	music:15
+all	with:16
+reminds:74
+reminds	with:9
+reminds	miss:11
+reminds	days:13
+now:74
+now	great:9
+now	childhood:9
+now	music:16
+now	remember:19
+now	remember	old:9
+now	is:20
+now	is	with:9
+now	with:21
+now	old:24
+we:74
+we	miss:9
+we	brings:9
+we	but:9
+we	now:10
+we	remember:12
+we	is:12
+we	old:12
+we	great:13
+we	music:14
+we	with:22
+miss:74
+miss	with:9
+miss	brings:9
+miss	childhood:9
+miss	music:9
+miss	but:10
+miss	remember:11
+miss	beautiful:11
+miss	days:11
+beautiful:75
+beautiful	brings:11
+beautiful	remember:12
+beautiful	with:14
+beautiful	is:17
+childhood:75
+childhood	old:9
+childhood	beautiful:11
+childhood	brings:12
+childhood	is:12
+but:78
+but	great:9
+but	old:11
+but	remember:14
+but	is:15
+but	with:15
+days:78
+days	remember:10
+days	is:12
+days	old:28
+music:89
+music	old:14
+music	brings:14
+music	great:17
+music	remember:17
+music	with:18
+music	is:21
+great:93
+great	old:11
+great	is:11
+great	remember:12
+great	brings:15
+great	with:15
+is:97
+is	brings:14
+is	old:16
+is	with:21
+is	remember:24
+brings:103
+brings	old:15
+with:107
+with	old:20
+with	remember:26
+old:108
+old	remember:23
+remember:121
